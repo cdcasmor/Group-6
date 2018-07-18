@@ -14,7 +14,7 @@
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/Trump's%20tweet%20image.png)
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/dow-jones-stock-market-crash-donald-trump-915007.jpg)
 
-###Our Premise: 
+### Our Premise: 
 
 Taking advantage of the media craze over president Trump's tweets, we at Data Animal chose to run an analysis on how
 the tweets posted in his account and the different effects they might have. 
