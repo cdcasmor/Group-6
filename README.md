@@ -14,21 +14,22 @@
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/Trump's%20tweet%20image.png)
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/dow-jones-stock-market-crash-donald-trump-915007.jpg)
 
-### Premise: 
-#### Taking advantage of the media craze over president Trump's tweets, we at Data Animal chose to run an analysis on how
+###Our Premise: 
+
+Taking advantage of the media craze over president Trump's tweets, we at Data Animal chose to run an analysis on how
 the tweets posted in his account and the different effects they might have. 
 
 ### Our Process:
 
-####We began by gathering data from FiveThirtyEight. This data contained the results from different polls conducted by different
-####polling houses nationwide. We then proceeded to pair the dates of the polls conducted with the different dates in which a particular
-####tweet was posted, helping us keep track of what the real time effects would be.
+We began by gathering data from FiveThirtyEight. This data contained the results from different polls conducted by different
+polling houses nationwide. We then proceeded to pair the dates of the polls conducted with the different dates in which a particular
+tweet was posted, helping us keep track of what the real time effects would be.
 
-####After we paired the approval ratings to a sentiment score (from VADER sentiment analysis) we chose to also compare this sentiment score
-####with the fluctuations over the S&P500. For more details and final conclusions please proceed to the presentation slides as well as the source code in the repository.
+After we paired the approval ratings to a sentiment score (from VADER sentiment analysis) we chose to also compare this sentiment score
+with the fluctuations over the S&P500. For more details and final conclusions please proceed to the presentation slides as well as the source code in the repository.
 
 ### Plots: 
-#### Our plots track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. The best visualization method in this case would be line plots and scatter plots.
+Our plots track sentiment vs approval rating/sentiment vs S&P 500 for spans of one or two weeks at a time. The intent of this analysis is to gauge the immediate impact of Donald Trump’s tweets to his approval rating and S&P 500. The best visualization method in this case would be line plots and scatter plots.
 
 ### Schedule:
 ![alt text](https://github.com/david880110/Group-6/blob/master/image/Rough%20schedule.png)
